@@ -1,5 +1,5 @@
-# bandit lvel
-## SSHcode  
+# bandit level
+## SSH  
 - 
-## Aproach  
+## Approach  
 - 
