@@ -1,5 +1,5 @@
-# bandit lvel0-1
-## SSHcode  
+# bandit level0-1
+## SSH  
 - ssh bandit0@bandit.labs.overthewire.org -p 2220
-## Aproach  
+## Approach  
 - cat "filename"
