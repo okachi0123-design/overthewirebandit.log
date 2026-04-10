@@ -3,3 +3,5 @@
 - ssh bandit1@bandit.labs.overthewire.org -p 2220
 ## Approach  
 - "-"のようなファイル名は"./"カレントディレクトリから指定
+## Solution
+- cat ./-
